@@ -11,6 +11,7 @@
 <p align="center">
   <kbd>
    <img  src="https://github.com/gooddevil79/Modal-window/blob/main/modal.png" width="80%" style="border:2pxsolid;"></kbd>
+  </br>
     <kbd>
    <img  src="https://github.com/gooddevil79/Modal-window/blob/main/Animation.gif" width="80%" style="border:2pxsolid;"></kbd>
 </p>
